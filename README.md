@@ -35,8 +35,6 @@ public class Dhilipan {
     String college =
         "J.J College of Engineering and Technology";
 
-    double cgpa = 7.85;
-
     String[] interests = {
         "Embedded Systems",
         "IoT Development",
@@ -48,11 +46,11 @@ public class Dhilipan {
     String[] currentlyLearning = {
         "ESP-IDF",
         "Raspberry Pi",
-        "PCB Design",
         "VLSI",
         "Semiconductor Testing"
     };
 }
+
 ```
 
 ## Technical Skills
