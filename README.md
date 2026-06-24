@@ -95,7 +95,7 @@ public class Dhilipan {
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=dhilipan182005&theme=tokyonight-duo&hide_border=true"/>
 </p>
----
+
 ## Activity Graph
 
 <div align="center">
